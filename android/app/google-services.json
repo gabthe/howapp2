@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "8035838233",
+    "project_id": "howapp-338f9",
+    "storage_bucket": "howapp-338f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8035838233:android:61c9127fb45aaf0535fd88",
+        "android_client_info": {
+          "package_name": "com.example.how_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8035838233-l8avdl9e3rv1mvq50n04793vher2ot66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXH6Qf9pyMIeowGO9ITVoBX85d5ufzJzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8035838233-l8avdl9e3rv1mvq50n04793vher2ot66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8035838233-gnuj1b6m9l4oe8acu1ikvsik2s1tibep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.howapp2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8035838233:android:55d9652ddd851ab135fd88",
+        "android_client_info": {
+          "package_name": "com.howapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8035838233-l8avdl9e3rv1mvq50n04793vher2ot66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXH6Qf9pyMIeowGO9ITVoBX85d5ufzJzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8035838233-l8avdl9e3rv1mvq50n04793vher2ot66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8035838233-gnuj1b6m9l4oe8acu1ikvsik2s1tibep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.howapp2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
